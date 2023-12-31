@@ -6,4 +6,4 @@ An android app to enable direct link between farmers and the consumers.
 - Sync and build gradle
 - Run app
 
-The google playstore link is https://play.google.com/store/apps/details?id=com.iitrpr.happyfamilybox&hl=en&pli=1
+The google playstore link is (here)[https://play.google.com/store/apps/details?id=com.iitrpr.happyfamilybox&hl=en&pli=1]
